@@ -30,7 +30,10 @@ class XO(NodeLinter):
         'javascript (jsx)',
         'jsx-real',
         'Vue Component',
-        'vue-syntax-highlight'
+        'vue-component',
+        'vue-syntax-highlight',
+        'Vue Syntax Highlight',
+        'vue'
     )
     defaults = {
         'enable_if_dependency': True,
